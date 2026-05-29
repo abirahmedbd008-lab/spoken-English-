@@ -1,0 +1,8 @@
+{
+  "name": "Remix: English Learning",
+  "description": "An interactive English grammar learning and quiz play application with dynamic dark design, offline compatibility, real-time feedback from Gemini, and automatic cloud progress synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
